@@ -1,2 +1,3 @@
 # webku
-https://github.com/ard2710/webku.git
+
+https://ard2710.github.io/web.github.io/
